@@ -43,6 +43,7 @@ function setBgImage(){
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
+ 
 
 showTime();
 setBgImage();
